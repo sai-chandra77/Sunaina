@@ -159,7 +159,7 @@ const PhotoGallery = () => {
         </div>
 
         {/* Bottom decorative section */}
-        <div className="text-center mt-20 pt-12 border-t border-birthday-violet/20">
+{/*         <div className="text-center mt-20 pt-12 border-t border-birthday-violet/20">
           <div className="flex justify-center items-center gap-4">
             <Heart className="w-6 h-6 text-birthday-violet animate-float" />
             <span className="text-lg font-elegant birthday-text-gradient">
@@ -167,7 +167,7 @@ const PhotoGallery = () => {
             </span>
             <Heart className="w-6 h-6 text-birthday-purple animate-float stagger-1" />
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
