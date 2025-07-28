@@ -43,7 +43,7 @@ const PhotoGallery = () => {
     {
       type: 'text',
       id: 6,
-      quote: "You gave me space to share everything inside me. You became like my daily diary. That one day... if it hadn’t happened, things might’ve been better. Maybe you were right — but from my side, I felt I was too."
+      quote: "You gave me space to share everything inside me. That one day... if it hadn’t happened, things might’ve been better. Maybe you were right — but from my side, I felt I was too."
     },
     {
       type: 'photos',
@@ -62,7 +62,7 @@ const PhotoGallery = () => {
     {
       type: 'text',
       id: 8,
-      quote: "Later, I realized I broke your trust. I tried to bring things back to normal, but I know I hurt you. I'm really sorry. I know nuvvu accept cheyavu, but I just wanted to express how I feel.All the best for your future. Thank you for everything. Take care."
+      quote: "Later, I realized I broke your trust. I tried to bring things back to normal, but I know I hurt you. I'm really sorry. I just wanted to express how I feel.All the best for your future. Thank you for everything. Take care."
     }
   ];
 
