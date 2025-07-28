@@ -20,7 +20,7 @@ const Footer = () => {
         
         <div className="space-y-3">
           <p className="text-lg font-elegant text-foreground">
-            Made with <Heart className="inline w-4 h-4 text-birthday-violet mx-1" /> by Your Friend
+            Made by Your Friend
           </p>
           <p className="text-muted-foreground">
             {/* {currentDate} */}
